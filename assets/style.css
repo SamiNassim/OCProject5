@@ -50,8 +50,8 @@ form {
 
 @font-face {
 	font-family: Inter;
-	src: local("Inter.ttf");
-	font-display: swap
+	src: local("./assets/Inter.ttf");
+	font-display: swap;
 }
 
 body {
